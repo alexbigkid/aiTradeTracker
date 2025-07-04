@@ -1,0 +1,2 @@
+# aiTrader
+AI assisted Trader
