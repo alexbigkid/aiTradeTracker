@@ -1,2 +1,2 @@
-# aiTrader
-AI assisted Trader
+# aiTradeTracker
+AI assisted Trade Tracker
